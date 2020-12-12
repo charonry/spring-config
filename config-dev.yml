@@ -1,2 +1,2 @@
 config:
-  info: "master branch,spring-config/config-dev.yml version=3 two queues"
+  info: "master branch,spring-config/config-dev.yml version=3 two queues but only one work"
